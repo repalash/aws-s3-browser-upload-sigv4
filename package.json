@@ -1,0 +1,10 @@
+{
+  "name": "aws-s3-browser-upload",
+  "description": "Browser-Based Upload using HTTP POST (Using AWS Signature Version 4).",
+  "version": "1.0.0",
+  "author": "Palash Bansal <palashbansal96@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
